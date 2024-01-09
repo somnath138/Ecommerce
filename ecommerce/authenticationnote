@@ -1,0 +1,11 @@
+// npm i bcryptjs jsonwebtoken validator nodemailer cookie-parser body-parser
+
+// bycriptjs :-bycriptjs convert  password into the hash password
+// jsonwebtoken :-use to generate a webtokens to store the values
+// validatior:-use to validate
+// send mail usiing it
+// cookie parser:-use to parse cookie
+// first create model ->  then create a controller-> then create a route -> then route connected to the app using //app.use
+//inside the arrow function not possible to use this
+//when updated then update everything like name email but not possible too update hash password to again update the hash password 
+//pre lege jauya meaning ei step ta korar age change hobe
